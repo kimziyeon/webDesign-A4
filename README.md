@@ -3,7 +3,7 @@
 $(function () {
 
 $('.sub').mouseleave(function () {
-  $(this).parents('li').children('a').removeClass('on')
+  $(this).parents('li').children('a').removeClass('on');
 })
 
 <p>
